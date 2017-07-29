@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "优词词典",
+  "description": "优词词典 Chrome 插件",
+  "version": "1.0.0",
+  "icons": {
+    "16": "images/favicon.png",
+    "48": "images/favicon.png"
+  },
+  "permissions": [
+    "activeTab",
+    "http://www.youdict.com/"
+  ],
+  "browser_action": {
+    "default_icon": "images/favicon.png",
+    "default_popup": "popup.html"
+  }
+}
