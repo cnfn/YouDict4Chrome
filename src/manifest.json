@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "优词词典",
   "description": "优词词典 Chrome 插件",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icons": {
     "16": "images/favicon.png",
     "48": "images/favicon.png"
@@ -14,5 +14,16 @@
   "browser_action": {
     "default_icon": "images/favicon.png",
     "default_popup": "popup.html"
+  },
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Ctrl + Shift + F",
+        "windows": "Ctrl + Shift + F",
+        "mac": "Command + Shift + F",
+        "chromeos": "Ctrl + Shift + F",
+        "linux": "Ctrl + Shift + F"
+      }
+    }
   }
 }
