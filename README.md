@@ -14,7 +14,7 @@
 ## 使用
 
 1. 双击选中或拖动选中待查询的英语单词;
-2. 点击插件栏的 **优词词典** 图标, 或者使用快捷键 `Ctrl + Shift + F` 触发查询操作(适用于 Windows/Linux/ChromeOS, MacOS 用户请使用 `Command + Shift + F`);
+2. 点击插件栏的 **优词词典** 图标, 或者使用快捷键 `Ctrl + Shift + F` 触发查询操作(适用于 Windows/Linux/ChromeOS, MacOS 用户请使用 `Control + Shift + F`);
 
 *暂不支持划词即时翻译*
 

@@ -20,7 +20,7 @@
       "suggested_key": {
         "default": "Ctrl + Shift + F",
         "windows": "Ctrl + Shift + F",
-        "mac": "Command + Shift + F",
+        "mac": "MacCtrl + Shift + F",
         "chromeos": "Ctrl + Shift + F",
         "linux": "Ctrl + Shift + F"
       }
